@@ -1,4 +1,4 @@
-# spring-boot-kafka
+# demo-actuator
 Demo Project for Spring Boot and Actuator
 
 ## Usage

@@ -1,0 +1,4 @@
+com\claudio\actuator\demo\monitor\MonitorService.class
+com\claudio\actuator\demo\DemoActuatorApplication.class
+com\claudio\actuator\demo\monitor\MonitorServiceImpl.class
+com\claudio\actuator\demo\custom\CustomActuatorEndpoint.class
